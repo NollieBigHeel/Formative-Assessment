@@ -78,3 +78,8 @@ li {
 .basket-img {
     width: 50%;
 }
+
+.wine-height {
+    max-width: 150px;
+    max-height: 350px;
+}
